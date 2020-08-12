@@ -20,4 +20,4 @@ const Actors = () => {
   );
 };
 
-export default Actors;
+export default Actors; 
